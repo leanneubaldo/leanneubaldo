@@ -1,1 +1,3 @@
-ello,, haven't been here in a while
+she/her + ict student
+
+this will soon be a portfolio of my works.

@@ -1,7 +1,5 @@
-# info
-leanne is a student who is taking the tvl-ict strand. she's way too interested with computers apparently. she's also way too passionate about web things and communities. she draws, writes, and sings sometimes. leanne adores cute pixel art graphics, well-made personal websites, and the colors pink and green.
-
-nowadays, she writing and submitting to many litmags and working for one too!
+# hello! 💐
+welcome to my github page ♥ there's not much here + my activity is private, but i will create repos for the web things i do vv soon!
 
 # projects
 none... yet! she plans to start some very soon though 👀
